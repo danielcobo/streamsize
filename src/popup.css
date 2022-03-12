@@ -1,0 +1,18 @@
+ul {
+  min-width: 10rem;
+}
+
+li {
+  list-style: none;
+  line-height: 3rem;
+  padding: 0 0.5rem;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  width: 100%;
+  text-align: center;
+}
+
+li:hover {
+  background: rgb(160, 194, 245);
+}
